@@ -1,5 +1,3 @@
-import csv
-
 import string
 import nltk
 from nltk import word_tokenize
@@ -7,14 +5,6 @@ from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 import zipfile
 import pymorphy2
-
-
-with open('export_file.csv', newline='') as File:
-    reader = csv.reader(File)
-    for row in reader:
-        print(row)
-
-
 f = open('review.txt', "r", encoding="utf8")
 text = f.read()
 f.close()
@@ -48,4 +38,7 @@ print(bag)
 
 with open('edit_review.txt', 'w') as filehandle:
     filehandle.writelines("%s   " % place for place in bag)
+
+
+
 
