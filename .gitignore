@@ -1,5 +1,6 @@
 .idea
 venv
+*.zip
 
 # Jupyter Notebook
 .ipynb_checkpoints
