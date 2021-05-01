@@ -1,6 +1,10 @@
-# Algorithms of Fine-grained Clustering
-XLSX file Preprocessing
+# Clustering of articles of Saratov State University
 
-<br />
+### Features
 
-Clustering of text documents
+- XLSX file Preprocessing;
+- Fine-grained clustering algorithms;
+- K-means;
+- KD-trees;
+
+
