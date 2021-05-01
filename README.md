@@ -5,7 +5,6 @@
 - XLSX file Preprocessing;
 - Fine-grained Clustering algorithms;
 - Agglomerative Clustering;
-- K-means;
-- KD-trees;
-
+- k-Means;
+- KD-Trees.
 
