@@ -1,4 +1,4 @@
-# Clustering of articles of Saratov State University
+# Clustering of articles of State Technical University of Saratov
 
 ### Features
 
