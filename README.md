@@ -2,6 +2,13 @@
 
 ### Features
 
-- XLSX file Preprocessing;
-- Fine-grained Clustering (Agglomerative Clustering);
+- XLSX file Preprocessing
+- Fine-grained Clustering (Agglomerative Clustering)
 
+### Libraries
+
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- pymorphy2
