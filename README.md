@@ -3,8 +3,5 @@
 ### Features
 
 - XLSX file Preprocessing;
-- Fine-grained Clustering algorithms;
-- Agglomerative Clustering;
-- k-Means;
-- KD-Trees.
+- Fine-grained Clustering (Agglomerative Clustering);
 
