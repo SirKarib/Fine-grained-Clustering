@@ -10,7 +10,7 @@
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib.pyplot
+- Matplotlib
 - NLTK
 - pymorphy2
 - WordCloud
