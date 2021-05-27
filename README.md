@@ -1,10 +1,16 @@
-# Clustering of articles of Saratov State University
+# Clustering of articles of State Technical University of Saratov
 
 ### Features
 
-- XLSX file Preprocessing;
-- Fine-grained Clustering algorithms;
-- Agglomerative Clustering;
-- k-Means;
-- KD-Trees.
+- XLSX file Preprocessing
+- Fine-grained Clustering (Agglomerative Clustering)
 
+### Libraries
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- NLTK
+- pymorphy2
+- WordCloud
